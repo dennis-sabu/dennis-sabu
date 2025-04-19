@@ -1,4 +1,4 @@
-  #<h1 align="left">Hey 👋 What's up?</h1>
+  <h1 align="left">Hey 👋 What's up?</h1>
 👋 Hi, I'm Dennis Sabu —a passionate Frontend Web Developer and UI/UX Designer and engineering student at SJCET Pala.<br>💡 I love building interactive websites, designing creative visuals, and crafting innovative tech solutions.<br>💻 I build modern web apps with React and Next.js, focusing on performance and aesthetics.<br>🧠 Currently exploring the worlds of AI and Cybersecurity.<br>♟️ Outside of coding, you'll find me playing chess or hitting the badminton court.<br>📬 Let's connect and build something awesome together! 
 
 
