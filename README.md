@@ -1,20 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:134E4A&height=150&section=header&text=Dennis%20Sabu&fontSize=42&fontColor=5EEAD4&animation=fadeIn&fontAlignY=38&desc=Electronics%20and%20Computer%20Engineering%20-%20AI%2C%20Software%2C%20Hardware&descAlignY=58&descSize=16&descColor=94A3B8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=150&section=header&text=Dennis%20Sabu&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Electronics%20and%20Computer%20Engineering%20-%20AI%2C%20Software%2C%20Hardware&descAlignY=62&descSize=15&descColor=A5B4FC" width="100%"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=5EEAD4&center=true&vCenter=true&width=750&height=40&lines=Building+AI-powered+applications;Tinkering+with+ESP32+and+Raspberry+Pi;Full-Stack+Dev%2C+ML%2C+Embedded+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&height=40&lines=Building+AI-powered+applications;Tinkering+with+ESP32+and+Raspberry+Pi;Full-Stack+Dev%2C+ML%2C+Embedded+Systems" alt="Typing SVG" />
 
 <br><br>
 
-<a href="https://www.instagram.com/dennis_sabu/"><img src="https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
-<a href="https://www.linkedin.com/in/dennis-sabu-0916a3326/"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
-<a href="https://www.facebook.com/dennis.sabu.3/"><img src="https://img.shields.io/badge/Facebook-1a1a2e?style=for-the-badge&logo=facebook&logoColor=818CF8" /></a>
+<a href="https://www.linkedin.com/in/dennis-sabu-0916a3326/"><img src="https://img.shields.io/badge/LinkedIn-0F0C29?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn"/></a>
+<a href="mailto:dennissabu412@gmail.com"><img src="https://img.shields.io/badge/Email-0F0C29?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"/></a>
+<a href="https://www.instagram.com/dennis_sabu/"><img src="https://img.shields.io/badge/Instagram-0F0C29?style=for-the-badge&logo=instagram&logoColor=A78BFA" alt="Instagram"/></a>
+<a href="https://www.facebook.com/dennis.sabu.3/"><img src="https://img.shields.io/badge/Facebook-0F0C29?style=for-the-badge&logo=facebook&logoColor=A78BFA" alt="Facebook"/></a>
 
 </div>
-
-<br>
 
 ## About Me
 
