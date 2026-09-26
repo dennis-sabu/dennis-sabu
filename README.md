@@ -85,24 +85,6 @@ class Dennis:
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dennis-sabu&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennis-sabu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-
-<br>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=dennis-sabu&theme=dark&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dennis-sabu&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
-
-</div>
-
-<br>
 
 ## Contribution Graph
 
